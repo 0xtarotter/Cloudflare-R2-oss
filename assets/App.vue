@@ -458,7 +458,7 @@ export default {
         }
         document.title = `${
           this.cwd.replace(/.*\/(?!$)|\//g, "") || "/"
-        } - Static`;
+        } - Static - Qnode.net `;
       },
       immediate: true,
     },
