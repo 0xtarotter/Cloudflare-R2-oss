@@ -458,7 +458,7 @@ export default {
         }
         document.title = `${
           this.cwd.replace(/.*\/(?!$)|\//g, "") || "/"
-        } - Static Object Icu`;
+        } - Static`;
       },
       immediate: true,
     },
